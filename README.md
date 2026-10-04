@@ -2,7 +2,7 @@
 
 > **A Universal Multi-Demographic Health & Hygiene Web Application**
 
-HealthBuddy is an interactive, accessible web application designed to promote better daily health and hygiene practices across all age groups in a household or school community. Created as part of the Community Engagement Project (CEP), HealthBuddy provides specialized, profile-adapted user interfaces tailored specifically for School-Going Kids, Homemakers, and Elderly Persons.
+HealthBuddy is an interactive, accessible web application  designed to promote better daily health and hygiene practices across all age groups in a household or school community. Created as part of the Community Engagement Project (CEP), HealthBuddy provides specialized, profile-adapted user interfaces tailored specifically for School-Going Kids, Homemakers, and Elderly Persons.
 
 ---
 
